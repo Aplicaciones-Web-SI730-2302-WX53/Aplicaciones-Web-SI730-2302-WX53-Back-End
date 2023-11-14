@@ -1,0 +1,17 @@
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/B. Domain.deps.json
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/B. Domain.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/B. Domain.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/C Data.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/D. Shared.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/C Data.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/bin/Debug/net7.0/D. Shared.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.csproj.AssemblyReference.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.AssemblyInfoInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.AssemblyInfo.cs
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.csproj.CoreCompileInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.csproj.CopyComplete
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/refint/B. Domain.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/B. Domain.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/obj/Debug/net7.0/ref/B. Domain.dll

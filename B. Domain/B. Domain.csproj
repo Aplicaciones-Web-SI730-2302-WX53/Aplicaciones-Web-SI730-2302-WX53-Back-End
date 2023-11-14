@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Domain</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\C Data\C Data.csproj" />
+      <ProjectReference Include="..\D. Shared\D. Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="TutorialDomain2.cs" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+    </ItemGroup>
+
+</Project>

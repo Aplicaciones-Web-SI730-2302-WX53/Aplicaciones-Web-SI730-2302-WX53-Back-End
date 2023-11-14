@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>A API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.TutorialController.GetAsync">
+             <summary>
+             get all Tuturials stored .
+             </summary>
+             <returns>All actived categerories without filters</returns>
+             <remarks>
+             Sample request:
+            
+                 GET /Get   
+            
+             </remarks>
+        </member>
+        <member name="M:API.Controllers.TutorialController.Post(Learnin_center_xw53.Request.TutorialRequest)">
+            <response code="201">Returns the newly created tutorial</response>
+            <response code="400">If the tutorial is null or missing required fields</response>
+            <response code="500">Unexcpected error</response>
+        </member>
+        <member name="M:API.Controllers.UserController.Signup(Learnin_center_xw53.Request.UserRequest)">
+            [Filter.Authorize("admin")]
+        </member>
+        <member name="M:Learnin_center_xw53.Middleware.AuthenticationMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext,Domain.ITokenDomain,Data.IUserData)">
+            <summary>
+            Autenticación
+            </summary>
+            <param name="context"></param>
+            <param name="tokenDomain"></param>
+            <param name="userDomain"></param>
+        </member>
+    </members>
+</doc>

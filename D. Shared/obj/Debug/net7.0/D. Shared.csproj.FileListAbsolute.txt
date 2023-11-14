@@ -1,0 +1,12 @@
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/bin/Debug/net7.0/D. Shared.deps.json
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/bin/Debug/net7.0/D. Shared.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/bin/Debug/net7.0/D. Shared.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.csproj.AssemblyReference.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.AssemblyInfoInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.AssemblyInfo.cs
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.csproj.CoreCompileInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/refint/D. Shared.dll
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/D. Shared.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/Debug/net7.0/ref/D. Shared.dll
