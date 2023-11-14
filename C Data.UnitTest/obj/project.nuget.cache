@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "37IsxBh2ckHIr5J2sa0+eVvQ1eA/ZM9IdJ5b6in6YbkitR1/beEXfoQ+Mpoqr8KDwWIuqTTyaUgqaNIA1cWjEw==",
+  "dgSpecHash": "ovQsSUUNUtc324xlL0VPa3izzmEaw1rqWEj0R/x/9dG6IqfL++sPUrL7IkeqDlVpzSBnzhmj0Nt41M7tjqEOxw==",
   "success": true,
-  "projectFilePath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/C Data.UnitTest.csproj",
+  "projectFilePath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/C Data.UnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/naldo_reupo-musayon/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/naldo_reupo-musayon/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",

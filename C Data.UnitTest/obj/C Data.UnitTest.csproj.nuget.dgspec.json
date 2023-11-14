@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/C Data.UnitTest.csproj": {}
+    "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/C Data.UnitTest.csproj": {}
   },
   "projects": {
-    "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/C Data.UnitTest.csproj": {
+    "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/C Data.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/C Data.UnitTest.csproj",
+        "projectUniqueName": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/C Data.UnitTest.csproj",
         "projectName": "C Data.UnitTest",
-        "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/C Data.UnitTest.csproj",
+        "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/C Data.UnitTest.csproj",
         "packagesPath": "/Users/naldo_reupo-musayon/.nuget/packages/",
-        "outputPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data.UnitTest/obj/",
+        "outputPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data.UnitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/naldo_reupo-musayon/.nuget/NuGet/NuGet.Config"

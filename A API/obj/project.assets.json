@@ -12166,11 +12166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/A API/A API.csproj",
+      "projectUniqueName": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A API/A API.csproj",
       "projectName": "A API",
-      "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/A API/A API.csproj",
+      "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A API/A API.csproj",
       "packagesPath": "/Users/naldo_reupo-musayon/.nuget/packages/",
-      "outputPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/A API/obj/",
+      "outputPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/naldo_reupo-musayon/.nuget/NuGet/NuGet.Config"
@@ -12187,11 +12187,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/B. Domain.csproj": {
-              "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B. Domain/B. Domain.csproj"
+            "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/B. Domain/B. Domain.csproj": {
+              "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/B. Domain/B. Domain.csproj"
             },
-            "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/C Data.csproj": {
-              "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/C Data.csproj"
+            "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/C Data.csproj": {
+              "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/C Data.csproj"
             }
           }
         }

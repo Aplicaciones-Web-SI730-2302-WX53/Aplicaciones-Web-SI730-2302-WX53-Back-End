@@ -1,0 +1,6 @@
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/obj/Debug/net7.0/A.API.UnitTest.csproj.AssemblyReference.cache
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/obj/Debug/net7.0/A.API.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/obj/Debug/net7.0/A.API.UnitTest.AssemblyInfoInputs.cache
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/obj/Debug/net7.0/A.API.UnitTest.AssemblyInfo.cs
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/A.API.UnitTest/obj/Debug/net7.0/A.API.UnitTest.csproj.CoreCompileInputs.cache

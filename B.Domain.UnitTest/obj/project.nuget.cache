@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0iMI3+ku3kiq+3dlyWpfQT5okx2cvaiA8U8U3zNJqKO0EPf+J8K26VmKSSceMEQh3b9qpdExpFrAWH2lSC/lXA==",
+  "dgSpecHash": "+4zLa/gUSVNQE16PVgNufYwJOmJXnP8w51pFPWZ93VVqswQjdZZCsTCJUHLKT+NG2FfyG9WSRuggQCVB1Pl6HA==",
   "success": true,
-  "projectFilePath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/B.Domain.UnitTest/B.Domain.UnitTest.csproj",
+  "projectFilePath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/B.Domain.UnitTest/B.Domain.UnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/naldo_reupo-musayon/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/naldo_reupo-musayon/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

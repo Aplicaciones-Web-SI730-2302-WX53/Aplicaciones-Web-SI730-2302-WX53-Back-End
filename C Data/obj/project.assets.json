@@ -813,11 +813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/C Data.csproj",
+      "projectUniqueName": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/C Data.csproj",
       "projectName": "C Data",
-      "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/C Data.csproj",
+      "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/C Data.csproj",
       "packagesPath": "/Users/naldo_reupo-musayon/.nuget/packages/",
-      "outputPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/obj/",
+      "outputPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/naldo_reupo-musayon/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/D. Shared.csproj": {}
+    "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/D. Shared/D. Shared.csproj": {}
   },
   "projects": {
-    "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/D. Shared.csproj": {
+    "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/D. Shared/D. Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/D. Shared.csproj",
+        "projectUniqueName": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/D. Shared/D. Shared.csproj",
         "projectName": "D. Shared",
-        "projectPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/D. Shared.csproj",
+        "projectPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/D. Shared/D. Shared.csproj",
         "packagesPath": "/Users/naldo_reupo-musayon/.nuget/packages/",
-        "outputPath": "/Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/D. Shared/obj/",
+        "outputPath": "/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/D. Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/naldo_reupo-musayon/.nuget/NuGet/NuGet.Config"

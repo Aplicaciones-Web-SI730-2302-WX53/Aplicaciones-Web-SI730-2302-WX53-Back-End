@@ -10,3 +10,15 @@
 /Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/obj/Debug/net7.0/refint/C Data.dll
 /Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/obj/Debug/net7.0/C Data.pdb
 /Users/naldo_reupo-musayon/RiderProjects/Aplicaciones-Web-SI730-2302-WX53-Back-Endv4/C Data/obj/Debug/net7.0/ref/C Data.dll
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/bin/Debug/net7.0/C Data.deps.json
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/bin/Debug/net7.0/C Data.dll
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/bin/Debug/net7.0/C Data.pdb
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.csproj.AssemblyReference.cache
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.AssemblyInfoInputs.cache
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.AssemblyInfo.cs
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.csproj.CoreCompileInputs.cache
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.dll
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/refint/C Data.dll
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/C Data.pdb
+/Users/naldo_reupo-musayon/Downloads/Aplicaciones-Web-SI730-2302-WX53-Back-End/C Data/obj/Debug/net7.0/ref/C Data.dll
